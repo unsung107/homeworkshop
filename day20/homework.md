@@ -24,3 +24,4 @@ comments = question.Comment_set.all()
 
 ## 3번문제
 
+movie_id
